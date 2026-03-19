@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MatchingGame
+comment0.text=\n\ This\ is\ the\ main\ game\ class\ for\ the\ matching\ game\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ runGameLoop()
+comment2.text=\n\ This\ is\ the\ entry\ point\ of\ the\ game\ -\ run\ it\ to\ play\ the\ game\n
+comment3.params=milliseconds
+comment3.target=void\ pause(int)
+comment3.text=\n\ Method\ for\ pausing\ the\ execution\ of\ the\ program\n
+numComments=4
